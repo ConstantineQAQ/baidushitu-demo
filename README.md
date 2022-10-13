@@ -1,0 +1,2 @@
+# baidushitu-demo
+clone到本地然后将你要识别的图片路径输入到path就可以识别文字
